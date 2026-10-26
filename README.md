@@ -1,4 +1,4 @@
-Here is a full premium landing page for MATRIX AI Content Engine, ready to use inside a React app.
+MATRIX AI Content Engine, ready to use inside a React app.
 
 This landing page is built for:
 - SaaS conversion
